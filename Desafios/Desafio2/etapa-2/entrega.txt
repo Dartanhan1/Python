@@ -1,0 +1,4 @@
+ETAPA 2: Reutilização de containers
+Sim, é possível reutilizar containers parados. Para reiniciar um container parado, você pode usar o comando docker start seguido pelo ID ou pelo nome do container. Por exemplo:
+docker start nome_do_container
+docker logs nome_do_container
